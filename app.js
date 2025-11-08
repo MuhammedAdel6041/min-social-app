@@ -7,7 +7,7 @@ import postRouter from "./modules/post/post.routes.js";
 
  
 const app = express();
-const port =   5000;
+const port =   5002;
  
 
  
